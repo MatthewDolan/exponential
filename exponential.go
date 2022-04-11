@@ -3,7 +3,7 @@ package exponential
 import (
 	"time"
 
-	"github.com/MatthewDolan/jitter"
+	"github.com/go-toolbelt/jitter"
 )
 
 // Delay returns a function that iterative returns the next delay in an exponential series.
