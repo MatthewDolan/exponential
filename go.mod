@@ -1,4 +1,4 @@
-module github.com/MatthewDolan/go-template
+module github.com/go-toolbelt/exponential
 
 go 1.18
 
